@@ -62,3 +62,26 @@ _Add your screenshots here for demo!_
 Made with ❤️ by [Shubham Badadale](https://github.com/ShubhamBadadale)  
 Built during a Hackathon as part of **Team Vector Vision**
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](Screenshots/0.Home.png)
+
+### ✍️ Taking Input
+![Taking Input](Screenshots/1.Taking_Input.png)
+
+### ✂️ Sentence Extraction
+![Sentence Extraction](Screenshots/2.Sentence_Extraction.png)
+
+### 📊 Ready to Search
+![Ready to Search](Screenshots/3.Ready_to_Search.png)
+
+### 🧠 Example Result 1
+![Example 01](Screenshots/4.Example_No_01.png)
+![Example 01.1](Screenshots/5.Example_No_01.1.png)
+![Example 01.2](Screenshots/6.Example_No_01.2.png)
+
+### 🧠 Example Result 2
+![Example 02.1](Screenshots/7.Example_No_02.1.png)
+![Example 02.2](Screenshots/8.Example_No_02.2.png)
+
